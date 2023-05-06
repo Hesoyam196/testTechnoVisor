@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(rgba(73, 64, 255, 0.8),rgba(239, 133, 255, 0.8)) no-repeat;
+
+}
+
+html, body {
+    min-height: 100%;
+}
+
+
+.cont2 {
+padding: 45px;
+}
+
+h1 {
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+
+td {
+    border: 1px solid white;
+    padding: 25px;
+    font-size: 16pt;
+}
+
+table {
+border-spacing: 15px;
+    border: 5px solid white;
+    border-radius: 25px;
+}
